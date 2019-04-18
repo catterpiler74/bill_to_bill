@@ -1,0 +1,12 @@
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\bin\Debug\bill_to_bill.exe.config
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\bin\Debug\bill_to_bill.exe
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\bin\Debug\bill_to_bill.pdb
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.Form1.resources
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.Properties.Resources.resources
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.csproj.GenerateResource.Cache
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.exe
+C:\Users\T60\Documents\Visual Studio 2008\Projects\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.pdb
+C:\t1\coding\bill_to_bill\bill_to_bill\bill_to_bill\bin\Debug\bill_to_bill.exe.config
+C:\t1\coding\bill_to_bill\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.exe
+C:\t1\coding\bill_to_bill\bill_to_bill\bill_to_bill\obj\Debug\bill_to_bill.pdb
